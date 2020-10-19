@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blog-pattern-react/static/css/main.a4757f48.chunk.css",
+    "main.js": "/blog-pattern-react/static/js/main.37cbc371.chunk.js",
+    "main.js.map": "/blog-pattern-react/static/js/main.37cbc371.chunk.js.map",
+    "runtime-main.js": "/blog-pattern-react/static/js/runtime-main.77e827b1.js",
+    "runtime-main.js.map": "/blog-pattern-react/static/js/runtime-main.77e827b1.js.map",
+    "static/js/2.7f57d288.chunk.js": "/blog-pattern-react/static/js/2.7f57d288.chunk.js",
+    "static/js/2.7f57d288.chunk.js.map": "/blog-pattern-react/static/js/2.7f57d288.chunk.js.map",
+    "index.html": "/blog-pattern-react/index.html",
+    "precache-manifest.15aa399b0346700cf05a29f670021707.js": "/blog-pattern-react/precache-manifest.15aa399b0346700cf05a29f670021707.js",
+    "service-worker.js": "/blog-pattern-react/service-worker.js",
+    "static/css/main.a4757f48.chunk.css.map": "/blog-pattern-react/static/css/main.a4757f48.chunk.css.map",
+    "static/js/2.7f57d288.chunk.js.LICENSE.txt": "/blog-pattern-react/static/js/2.7f57d288.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77e827b1.js",
+    "static/js/2.7f57d288.chunk.js",
+    "static/css/main.a4757f48.chunk.css",
+    "static/js/main.37cbc371.chunk.js"
+  ]
+}
